@@ -1,5 +1,6 @@
 
 
+
 :root { 
   --black: #0f0a0a; 
   --primary: #42e2b8; 
@@ -47,7 +48,14 @@ button{
   border-radius: 35px;
 
 }
+
+.boton{
+  border-radius: 35px;
+  margin: 5px;
+}
+
 .icono{
   background-color: aquamarine;
   border-radius: 5px;
+  
 }
